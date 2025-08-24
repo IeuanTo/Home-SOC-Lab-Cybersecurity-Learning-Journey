@@ -51,8 +51,6 @@ My ultimate goal is to become a **Security Architect**, and this lab is part of 
 
 ---
 
-## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/) *(add your profile link)*  
-- [GitHub](https://github.com/) *(this repo + other projects)*  
-
+## 🌐 Connect with Me  
+- [GitHub](https://github.com/) *(this repo + other projects)* 
 ---
